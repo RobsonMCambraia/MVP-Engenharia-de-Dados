@@ -2,6 +2,14 @@
 
 Este projeto tem como objetivo construir uma **arquitetura de dados em camadas (Bronze, Silver e Gold)** para processar, modelar e analisar um conjunto de dados de vendas. O objetivo principal é gerar **insights de negócio** que auxiliem na tomada de decisão estratégica.
 
+## 🔗 Link para o Projeto no Databricks
+
+Acesse o notebook completo com todas as análises, transformações e visualizações diretamente na plataforma Databricks por meio do link abaixo:
+
+👉 [Clique aqui para visualizar o projeto no Databricks](https://community.cloud.databricks.com/editor/notebooks/3681091948834163?o=2571085692271440)
+
+> 💡 *Observação: é necessário estar logado em uma conta do Databricks Community Edition para acessar o conteúdo.*
+
 ## 📌 Objetivos do Projeto
 
 - Implementar um fluxo completo de ingestão, tratamento e análise de dados;
