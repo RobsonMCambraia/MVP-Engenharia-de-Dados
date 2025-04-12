@@ -29,6 +29,17 @@ Modelagem dimensional, com tabelas de dimensão e fato:
 - `silver.dim_cidades`, `silver.dim_paises`, `silver.dim_categorias`
 - `silver.fato_vendas`
 
+#### 🧩 Modelo de Entidade-Relacionamento
+
+A seguir, é apresentado o modelo de entidade-relacionamento construído a partir das tabelas da camada *Silver*, com base no processo de modelagem dimensional. Esse modelo define claramente as relações entre as tabelas de dimensão e a tabela fato, permitindo uma estrutura robusta para análises futuras.
+
+#### 📷 Diagrama MER
+
+![Modelo de Entidade-Relacionamento](ER_SILVER.jpg)
+
+> *Figura: Modelo de Entidade-Relacionamento.*
+
+
 ### 🥇 Gold – Dados Analíticos
 Agregações e resumos voltados para análise:
 - `gold.vendas_resumo_mensal`
@@ -55,7 +66,7 @@ Agregações e resumos voltados para análise:
 
 ## 🧱 Modelagem Dimensional
 
-Utilizou-se a **abordagem em estrela (Star Schema)**:
+Utilizou-se a **abordagem em floco de neve (Snowflake Schema)**:
 
 - **Tabela Fato:** `fato_vendas`
 - **Tabelas Dimensão:** `dim_clientes`, `dim_produtos`, `dim_funcionarios`, `dim_cidades`, `dim_paises`, `dim_categorias`
