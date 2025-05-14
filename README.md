@@ -111,7 +111,7 @@ Os dados estão organizados no formato **Delta**, com tabelas persistidas no cat
 
 ## 🤔 Autoavaliação
 
-> "Acredito que atingi 80% dos objetivos propostos. Consegui construir as 3 camadas da arquitetura, fazer as modelagens necessárias, realizar análises significativas com base nos dados e criar catálogos detalhados. Ponto de melhoria seria investir mais em análises avançadas e visualizações."
+> "Acredito que atingi 80% dos objetivos propostos. Consegui construir as 3 camadas da arquitetura, fazer as modelagens necessárias, realizar análises significativas com base nos dados e criar catálogos detalhados. Ponto de melhoria seria investir mais em análises avançadas, testes de dados e visualizações."
 
 ---
 
